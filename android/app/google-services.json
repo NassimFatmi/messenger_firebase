@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "434066077234",
+    "firebase_url": "https://messenger-a7767.firebaseio.com",
+    "project_id": "messenger-a7767",
+    "storage_bucket": "messenger-a7767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434066077234:android:c19f1af387ac65b4072e2b",
+        "android_client_info": {
+          "package_name": "com.nassimfatmi.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434066077234-53ll3ae6vv9igeclffmcpumdokuk3u21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_BnB4vIvyDD0PAtcpFn7MMMR5YHMXDHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434066077234-53ll3ae6vv9igeclffmcpumdokuk3u21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
